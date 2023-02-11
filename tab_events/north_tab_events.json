@@ -1,0 +1,401 @@
+{
+  "2022-04-16T23:04:08.874218": [
+    "/commands/app/authenticate_user_command.dart"
+  ],
+  "2022-04-16T23:05:28.906711": [
+    "/data/app_user.dart"
+  ],
+  "2022-04-16T23:15:52.904405": [
+    "/commands/app/authenticate_user_command.dart"
+  ],
+  "2022-04-16T23:15:53.973532": [
+    "/data/app_user.dart"
+  ],
+  "2022-04-16T23:15:58.133266": [
+    "/commands/app/authenticate_user_command.dart"
+  ],
+  "2022-04-16T23:16:00.667123": [
+    "/data/app_user.dart"
+  ],
+  "2022-04-16T23:16:05.961747": [
+    "/commands/app/authenticate_user_command.dart"
+  ],
+  "2022-04-16T23:16:18.819996": [
+    "/models/app_model.dart"
+  ],
+  "2022-04-16T23:16:26.685980": [
+    "/_spikes/popup_menu_spike/popup_panel_spike.dart"
+  ],
+  "2022-04-16T23:16:32.017109": [
+    "/_spikes/popup_menu_spike/popup_panel_spike.dart"
+  ],
+  "2022-04-16T23:16:33.491166": [
+    "/_spikes/popup_menu_spike/popup_panel_spike.dart"
+  ],
+  "2022-04-16T23:16:34.948585": [
+    "/data/app_user.dart"
+  ],
+  "2022-04-16T23:16:40.879732": [
+    "/models/app_model.dart"
+  ],
+  "2022-04-16T23:16:40.980262": [
+    "/models/app_model.dart"
+  ],
+  "2022-04-16T23:16:45.601362": [
+    "/_spikes/popup_menu_spike/popup_panel_spike.dart"
+  ],
+  "2022-04-16T23:16:45.800538": [
+    "/_spikes/popup_menu_spike/popup_panel_spike.dart"
+  ],
+  "2022-04-16T23:16:52.899986": [
+    "/_spikes/popup_menu_spike/popup_panel_spike.dart"
+  ],
+  "2022-04-16T23:16:55.033487": [
+    "/models/app_model.dart"
+  ],
+  "2022-04-16T23:17:24.999153": [
+    "/_spikes/popup_menu_spike/popup_panel_spike.dart"
+  ],
+  "2022-04-16T23:18:52.007976": [
+    "/_spikes/popup_menu_spike/popup_panel_spike.dart"
+  ],
+  "2022-04-16T23:18:57.714353": [
+    "/_spikes/button_sheet.dart"
+  ],
+  "2022-04-16T23:19:19.204237": [
+    "/styled_widgets/buttons/styled_buttons.dart"
+  ],
+  "2022-04-16T23:19:56.162934": [
+    "/styled_widgets/ui_text.dart"
+  ],
+  "2022-04-16T23:20:01.099718": [
+    "/styled_widgets/inline_text_editor.dart"
+  ],
+  "2022-04-16T23:20:53.949556": [
+    "/_spikes/firebase_realtime_db.dart"
+  ],
+  "2022-04-16T23:21:19.916948": [
+    "/commands/app/copy_share_link_command.dart"
+  ],
+  "2022-04-16T23:21:36.635228": [
+    "/commands/app/copy_share_link_command.dart"
+  ],
+  "2022-04-16T23:22:33.518470": [
+    "/commands/app/copy_share_link_command.dart"
+  ],
+  "2022-04-16T23:22:34.286518": [
+    "/commands/app/copy_share_link_command.dart"
+  ],
+  "2022-04-16T23:22:35.011356": [
+    "/commands/app/copy_share_link_command.dart"
+  ],
+  "2022-04-16T23:22:35.655904": [
+    "/commands/app/copy_share_link_command.dart"
+  ],
+  "2022-04-16T23:22:36.242190": [
+    "/commands/app/copy_share_link_command.dart"
+  ],
+  "2022-04-16T23:22:36.743448": [
+    "/commands/app/copy_share_link_command.dart"
+  ],
+  "2022-04-16T23:22:37.357843": [
+    "/commands/app/copy_share_link_command.dart"
+  ],
+  "2022-04-16T23:22:40.498370": [
+    "/commands/app/copy_share_link_command.dart"
+  ],
+  "2022-04-16T23:22:49.020598": [
+    "/commands/commands.dart"
+  ],
+  "2022-04-16T23:23:50.889944": [
+    "/commands/app/copy_share_link_command.dart"
+  ],
+  "2022-04-16T23:24:12.488080": [
+    "/routing/app_link.dart"
+  ],
+  "2022-04-16T23:24:19.138407": [
+    "/commands/app/copy_share_link_command.dart"
+  ],
+  "2022-04-16T23:24:42.908122": [
+    "/routing/app_link.dart"
+  ],
+  "2022-04-16T23:25:13.064825": [
+    "/commands/app/copy_share_link_command.dart"
+  ],
+  "2022-04-16T23:25:17.102524": [
+    "/routing/app_link.dart"
+  ],
+  "2022-04-16T23:26:39.150312": [
+    "/commands/app/copy_share_link_command.dart"
+  ],
+  "2022-04-16T23:27:24.083113": [
+    "/commands/commands.dart"
+  ],
+  "2022-04-16T23:27:31.486922": [
+    "/models/app_model.dart"
+  ],
+  "2022-04-16T23:27:34.270724": [
+    "/commands/app/copy_share_link_command.dart"
+  ],
+  "2022-04-16T23:27:36.900150": [
+    "/models/app_model.dart"
+  ],
+  "2022-04-16T23:27:50.201142": [
+    "/routing/app_link.dart"
+  ],
+  "2022-04-16T23:27:52.776899": [
+    "/commands/commands.dart"
+  ],
+  "2022-04-16T23:27:56.086615": [
+    "/routing/app_link.dart"
+  ],
+  "2022-04-16T23:27:58.065845": [
+    "/routing/app_link.dart"
+  ],
+  "2022-04-16T23:28:01.534031": [
+    "/commands/app/copy_share_link_command.dart"
+  ],
+  "2022-04-16T23:28:10.314572": [
+    "/styled_widgets/toaster.dart"
+  ],
+  "2022-04-16T23:28:15.924168": [
+    "/commands/app/copy_share_link_command.dart"
+  ],
+  "2022-04-16T23:28:33.246304": [
+    "/routing/app_link.dart"
+  ],
+  "2022-04-16T23:28:36.944102": [
+    "/commands/app/copy_share_link_command.dart"
+  ],
+  "2022-04-16T23:28:39.614890": [
+    "/routing/app_link.dart"
+  ],
+  "2022-04-16T23:28:48.922290": [
+    "/commands/app/copy_share_link_command.dart"
+  ],
+  "2022-04-16T23:28:51.901009": [
+    "/routing/app_link.dart"
+  ],
+  "2022-04-16T23:30:27.899505": [
+    "/routing/app_link.dart"
+  ],
+  "2022-04-16T23:32:39.738892": [
+    "/commands/app/update_user_command.dart"
+  ],
+  "2022-04-16T23:32:40.704209": [
+    "/commands/app/set_current_user_command.dart"
+  ],
+  "2022-04-16T23:32:41.334671": [
+    "/commands/app/save_window_size_command.dart"
+  ],
+  "2022-04-16T23:32:42.127930": [
+    "/commands/app/save_image_to_disk_command.dart"
+  ],
+  "2022-04-16T23:32:42.636279": [
+    "/commands/app/refresh_menubar_command.dart"
+  ],
+  "2022-04-16T23:32:43.038597": [
+    "/commands/app/copy_share_link_command.dart"
+  ],
+  "2022-04-16T23:32:44.206150": [
+    "/commands/app/bootstrap_command.dart"
+  ],
+  "2022-04-16T23:32:58.733259": [
+    "/commands/books/delete_page_command.dart"
+  ],
+  "2022-04-16T23:33:47.763448": [
+    "/commands/books/delete_page_scrap_command.dart"
+  ],
+  "2022-04-16T23:34:07.698155": [
+    "/commands/books/delete_page_command.dart"
+  ],
+  "2022-04-16T23:34:09.341075": [
+    "/commands/books/delete_page_scrap_command.dart"
+  ],
+  "2022-04-16T23:34:16.985598": [
+    "/commands/books/delete_page_command.dart"
+  ],
+  "2022-04-16T23:35:10.245384": [
+    "/styled_widgets/dialogs/delete_dialog.dart"
+  ],
+  "2022-04-16T23:35:28.143505": [
+    "/commands/books/delete_page_command.dart"
+  ],
+  "2022-04-16T23:36:02.000383": [
+    "/commands/books/delete_page_scrap_command.dart"
+  ],
+  "2022-04-16T23:36:06.285875": [
+    "/commands/books/delete_page_command.dart"
+  ],
+  "2022-04-16T23:36:30.119133": [
+    "/commands/app/bootstrap_command.dart"
+  ],
+  "2022-04-16T23:36:33.035855": [
+    "/commands/books/create_page_command.dart"
+  ],
+  "2022-04-16T23:36:37.281119": [
+    "/commands/books/delete_page_command.dart"
+  ],
+  "2022-04-16T23:36:42.601715": [
+    "/commands/books/create_page_command.dart"
+  ],
+  "2022-04-16T23:36:43.233018": [
+    "/commands/app/bootstrap_command.dart"
+  ],
+  "2022-04-16T23:36:43.682972": [
+    "/commands/app/copy_share_link_command.dart"
+  ],
+  "2022-04-16T23:36:44.128117": [
+    "/commands/app/copy_share_link_command.dart"
+  ],
+  "2022-04-16T23:36:44.608961": [
+    "/commands/app/copy_share_link_command.dart"
+  ],
+  "2022-04-16T23:36:44.945048": [
+    "/commands/app/copy_share_link_command.dart"
+  ],
+  "2022-04-16T23:36:45.224514": [
+    "/commands/app/copy_share_link_command.dart"
+  ],
+  "2022-04-16T23:36:45.472123": [
+    "/commands/app/copy_share_link_command.dart"
+  ],
+  "2022-04-16T23:36:45.822003": [
+    "/commands/app/copy_share_link_command.dart"
+  ],
+  "2022-04-16T23:36:47.596099": [
+    "/commands/app/copy_share_link_command.dart"
+  ],
+  "2022-04-16T23:36:48.911418": [
+    "/commands/app/copy_share_link_command.dart"
+  ],
+  "2022-04-16T23:37:01.386773": [
+    "/commands/books/delete_page_command.dart"
+  ],
+  "2022-04-17T17:31:04.655427": [
+    "/services/firebase/firebase_service_firedart.dart"
+  ],
+  "2022-04-17T17:31:29.436513": [
+    "/services/firebase/firebase_service_firedart.dart"
+  ],
+  "2022-04-17T17:31:30.486238": [
+    "/services/firebase/firebase_service_native.dart"
+  ],
+  "2022-04-17T17:31:31.306842": [
+    "/services/firebase/firebase_service_firedart.dart"
+  ],
+  "2022-04-17T17:31:35.334429": [
+    "/services/firebase/firebase_service_firedart.dart"
+  ],
+  "2022-04-17T17:31:36.107764": [
+    "/services/firebase/firebase_service_native.dart"
+  ],
+  "2022-04-17T17:32:32.767322": [
+    "/services/firebase/firebase_service_firedart.dart"
+  ],
+  "2022-04-17T17:32:41.514394": [
+    "/themes.dart"
+  ],
+  "2022-04-17T17:32:43.866874": [
+    "/main_app_scaffold.dart"
+  ],
+  "2022-04-17T17:32:46.724104": [
+    "/themes.dart"
+  ],
+  "2022-04-17T17:32:52.450713": [
+    "/styled_widgets/buttons/raw_styled_btn.dart"
+  ],
+  "2022-04-17T17:33:05.108135": [
+    "/services/firebase/firebase_service_native.dart"
+  ],
+  "2022-04-17T17:33:06.376370": [
+    "/services/firebase/firebase_service_firedart.dart"
+  ],
+  "2022-04-17T17:33:53.700601": [
+    "/services/firebase/firebase_service_firedart.dart"
+  ],
+  "2022-04-17T17:33:53.996963": [
+    "/services/firebase/firebase_service_firedart.dart"
+  ],
+  "2022-04-17T17:33:54.161205": [
+    "/services/firebase/firebase_service_firedart.dart"
+  ],
+  "2022-04-17T17:33:54.543282": [
+    "/services/firebase/firebase_service_native.dart"
+  ],
+  "2022-04-17T17:33:54.789658": [
+    "/services/firebase/firebase_service_native.dart"
+  ],
+  "2022-04-17T17:33:54.997079": [
+    "/services/firebase/firebase_service_native.dart"
+  ],
+  "2022-04-17T17:33:55.683352": [
+    "/services/firebase/firebase_service_firedart.dart"
+  ],
+  "2022-04-17T17:33:55.870979": [
+    "/services/firebase/firebase_service_firedart.dart"
+  ],
+  "2022-04-17T17:33:57.187318": [
+    "/services/firebase/firebase_service_native.dart"
+  ],
+  "2022-04-17T17:34:04.391262": [
+    "/styles.dart"
+  ],
+  "2022-04-17T17:34:05.869397": [
+    "/services/firebase/firebase_service_native.dart"
+  ],
+  "2022-04-17T17:34:17.154917": [
+    "/styles.dart"
+  ],
+  "2022-04-17T17:34:25.441961": [
+    "/services/firebase/firebase_service_firedart.dart"
+  ],
+  "2022-04-17T17:34:27.159292": [
+    "/services/firebase/firebase_service_native.dart"
+  ],
+  "2022-04-17T17:34:48.480108": [
+    "/services/firebase/firebase_service_native.dart"
+  ],
+  "2022-04-17T17:35:18.150290": [
+    "/services/firebase/firebase_service_firedart.dart"
+  ],
+  "2022-04-17T17:36:08.286732": [
+    "/services/firebase/firebase_service_firedart.dart"
+  ],
+  "2022-04-17T17:36:08.862627": [
+    "/services/firebase/firebase_service_native.dart"
+  ],
+  "2022-04-17T17:36:24.146632": [
+    "/services/firebase/firebase_service_firedart.dart"
+  ],
+  "2022-04-17T17:40:40.421986": [
+    "/services/firebase/firebase_service_native.dart"
+  ],
+  "2022-04-17T17:40:47.244013": [
+    "/services/firebase/firebase_service_firedart.dart"
+  ],
+  "2022-04-17T17:40:47.876964": [
+    "/services/firebase/firebase_service_native.dart"
+  ],
+  "2022-04-17T17:40:50.621698": [
+    "/services/firebase/firebase_service_firedart.dart"
+  ],
+  "2022-04-17T17:40:50.992239": [
+    "/services/firebase/firebase_service_native.dart"
+  ],
+  "2022-04-17T17:40:52.290507": [
+    "/services/firebase/firebase_service_firedart.dart"
+  ],
+  "2022-04-17T17:40:54.492688": [
+    "/themes.dart"
+  ],
+  "2022-04-17T17:42:29.403022": [
+    "/services/firebase/firebase_service_firedart.dart"
+  ],
+  "2022-04-17T17:45:51.885199": [
+    "/services/firebase/firebase_service_native.dart"
+  ],
+  "2022-04-17T17:46:14.944131": [
+    "/services/firebase/firebase_service_firedart.dart"
+  ]
+}

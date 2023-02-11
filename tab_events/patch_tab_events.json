@@ -1,0 +1,239 @@
+{
+  "2023-01-25T17:51:40.923113": [
+    "/main.dart"
+  ],
+  "2023-01-25T17:52:20.452375": [
+    "/models/books_model.dart"
+  ],
+  "2023-01-25T17:53:40.465621": [
+    "/main.dart"
+  ],
+  "2023-01-25T17:54:39.788689": [
+    "/models/books_model.dart"
+  ],
+  "2023-01-25T17:54:42.261013": [
+    "/main.dart"
+  ],
+  "2023-01-25T17:55:22.801071": [
+    "/views/home_page/home_page.dart"
+  ],
+  "2023-01-25T17:56:41.166804": [
+    "/views/home_page/covers_sortable_list.dart"
+  ],
+  "2023-01-25T17:56:44.677868": [
+    "/views/home_page/home_page.dart"
+  ],
+  "2023-01-25T17:56:47.040620": [
+    "/models/books_model.dart"
+  ],
+  "2023-01-25T17:56:48.674572": [
+    "/views/home_page/covers_sortable_list.dart"
+  ],
+  "2023-01-25T17:56:52.459458": [
+    "/views/home_page/home_page.dart"
+  ],
+  "2023-01-25T17:57:22.576647": [
+    "/views/home_page/covers_sortable_list.dart"
+  ],
+  "2023-01-25T17:57:36.341605": [
+    "/views/home_page/home_page.dart"
+  ],
+  "2023-01-25T17:57:47.596857": [
+    "/views/home_page/covers_sortable_list.dart"
+  ],
+  "2023-01-25T17:59:22.790837": [
+    "/styled_widgets/buttons/styled_share_btn.dart"
+  ],
+  "2023-01-25T18:00:28.203848": [
+    "/commands/app/copy_share_link_command.dart"
+  ],
+  "2023-01-25T18:00:52.706579": [
+    "/models/app_model.dart"
+  ],
+  "2023-01-25T18:01:16.086721": [
+    "/data/app_user.freezed.dart"
+  ],
+  "2023-01-25T18:02:22.912732": [
+    "/models/app_model.dart"
+  ],
+  "2023-01-25T18:02:46.349473": [
+    "/models/app_model.dart"
+  ],
+  "2023-01-25T18:02:46.965812": [
+    "/models/app_model.dart"
+  ],
+  "2023-01-25T18:02:47.514466": [
+    "/models/app_model.dart"
+  ],
+  "2023-01-25T18:02:47.961709": [
+    "/models/app_model.dart"
+  ],
+  "2023-01-25T18:02:48.445891": [
+    "/models/app_model.dart"
+  ],
+  "2023-01-25T18:02:48.963864": [
+    "/data/app_user.freezed.dart"
+  ],
+  "2023-01-25T18:02:49.482069": [
+    "/models/books_model.dart"
+  ],
+  "2023-01-25T18:03:14.804650": [
+    "/views/home_page/home_page.dart"
+  ],
+  "2023-01-25T18:03:20.037296": [
+    "/views/home_page/covers_sortable_list.dart"
+  ],
+  "2023-01-25T18:03:21.526330": [
+    "/views/home_page/home_page.dart"
+  ],
+  "2023-01-25T18:03:34.517834": [
+    "/views/home_page/covers_sortable_list.dart"
+  ],
+  "2023-01-25T18:04:19.675371": [
+    "/views/home_page/home_page.dart"
+  ],
+  "2023-01-25T18:04:22.203639": [
+    "/views/home_page/covers_sortable_list.dart",
+    "/views/home_page/home_page.dart"
+  ],
+  "2023-01-25T18:05:53.592590": [
+    "/views/home_page/home_page.dart"
+  ],
+  "2023-01-25T18:05:57.546195": [
+    "/views/home_page/covers_sortable_list.dart"
+  ],
+  "2023-01-25T18:06:26.645738": [
+    "/commands/books/set_current_book_command.dart"
+  ],
+  "2023-01-25T18:06:34.095838": [
+    "/commands/books/set_current_page_command.dart"
+  ],
+  "2023-01-25T18:06:54.265672": [
+    "/views/home_page/covers_sortable_list.dart"
+  ],
+  "2023-01-25T18:08:39.058967": [
+    "/views/editor_page/draggable_page_menu/draggable_page_menu.dart"
+  ],
+  "2023-01-25T18:09:02.129258": [
+    "/views/editor_page/draggable_page_menu/draggable_page_title_btn.dart"
+  ],
+  "2023-01-25T18:10:24.945111": [
+    "/views/editor_page/draggable_page_menu/draggable_page_menu.dart"
+  ],
+  "2023-01-25T18:11:21.431919": [
+    "/views/editor_page/panels/collapsible_pages_panel.dart"
+  ],
+  "2023-01-25T18:11:36.035345": [
+    "/commands/books/set_current_page_command.dart"
+  ],
+  "2023-01-25T18:11:53.230617": [
+    "/commands/books/refresh_current_page_command.dart"
+  ],
+  "2023-01-25T18:12:00.043933": [
+    "/commands/books/set_current_page_command.dart"
+  ],
+  "2023-01-25T18:12:09.088911": [
+    "/views/editor_page/panels/simple_pages_menu.dart"
+  ],
+  "2023-01-25T18:13:46.248969": [
+    "/commands/commands.dart"
+  ],
+  "2023-01-25T18:13:58.936760": [
+    "/commands/pick_images_command.dart"
+  ],
+  "2023-01-25T18:14:13.464622": [
+    "/commands/books/delete_page_command.dart"
+  ],
+  "2023-01-25T18:17:22.387279": [
+    "/models/books_model.dart"
+  ],
+  "2023-01-25T18:17:35.363668": [
+    "/commands/books/delete_page_command.dart"
+  ],
+  "2023-01-25T18:18:05.094845": [
+    "/data/book_data.freezed.dart"
+  ],
+  "2023-01-25T18:18:18.936505": [
+    "/commands/books/delete_page_command.dart"
+  ],
+  "2023-01-25T18:18:22.300678": [
+    "/data/book_data.freezed.dart"
+  ],
+  "2023-01-25T18:18:25.911781": [
+    "/commands/books/delete_page_command.dart"
+  ],
+  "2023-01-25T18:22:33.772851": [
+    "/services/firebase/firebase_service_native.dart"
+  ],
+  "2023-01-25T18:23:04.739077": [
+    "/services/firebase/firebase_service.dart"
+  ],
+  "2023-01-25T18:24:40.663650": [
+    "/services/firebase/firebase_service_native.dart"
+  ],
+  "2023-01-25T18:25:09.946387": [
+    "/views/home_page/covers_sortable_list.dart"
+  ],
+  "2023-01-25T18:25:13.471867": [
+    "/views/editor_page/draggable_page_menu/draggable_page_menu.dart",
+    "/views/home_page/covers_sortable_list.dart"
+  ],
+  "2023-01-25T18:25:21.187851": [
+    "/services/firebase/firebase_service_native.dart",
+    "/views/home_page/covers_sortable_list.dart"
+  ],
+  "2023-01-25T18:25:24.593529": [
+    "/services/firebase/firebase_service_firedart.dart",
+    "/views/home_page/covers_sortable_list.dart"
+  ],
+  "2023-01-25T18:25:25.756967": [
+    "/services/firebase/firebase_service_native.dart",
+    "/views/home_page/covers_sortable_list.dart"
+  ],
+  "2023-01-25T18:25:30.169748": [
+    "/services/firebase/firebase_service_native.dart",
+    "/views/home_page/covers_sortable_list.dart"
+  ],
+  "2023-01-25T18:25:30.975904": [
+    "/services/firebase/firebase_service_firedart.dart",
+    "/views/home_page/covers_sortable_list.dart"
+  ],
+  "2023-01-25T18:25:31.689139": [
+    "/services/firebase/firebase_service_native.dart",
+    "/views/home_page/covers_sortable_list.dart"
+  ],
+  "2023-01-25T18:25:33.696254": [
+    "/views/editor_page/draggable_page_menu/draggable_page_menu.dart",
+    "/views/home_page/covers_sortable_list.dart"
+  ],
+  "2023-01-25T18:25:34.761145": [
+    "/views/editor_page/panels/collapsible_pages_panel.dart",
+    "/views/editor_page/draggable_page_menu/draggable_page_menu.dart"
+  ],
+  "2023-01-25T18:25:40.661499": [
+    "/views/editor_page/panels/collapsible_pages_panel.dart",
+    "/views/home_page/covers_sortable_list.dart"
+  ],
+  "2023-01-25T18:25:48.809518": [
+    "/views/home_page/covers_sortable_list.dart",
+    "/views/editor_page/draggable_page_menu/draggable_page_menu.dart"
+  ],
+  "2023-01-25T18:25:53.375021": [
+    "/views/editor_page/draggable_page_menu/draggable_page_menu.dart"
+  ],
+  "2023-01-25T18:25:58.743657": [
+    "/services/firebase/firebase_service_firedart.dart"
+  ],
+  "2023-01-25T18:26:05.623151": [
+    "/services/firebase/firebase_service_native.dart"
+  ],
+  "2023-01-25T18:26:24.437242": [
+    "/services/firebase/firebase_service_firedart.dart"
+  ],
+  "2023-01-25T18:26:38.860188": [
+    "/services/firebase/firebase_service_native.dart"
+  ],
+  "2023-01-25T18:26:59.569408": [
+    "/services/firebase/firebase_service_firedart.dart"
+  ]
+}
